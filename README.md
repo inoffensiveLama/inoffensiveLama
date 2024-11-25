@@ -1,8 +1,8 @@
-# <Jan Zander>
+# Jan Zander
 
 Hello, GitHub! 👋
 
-I'm <Jan Zander>, a student at Brigham Young University-Idaho interested in Software Development and Embedded Systems. Welcome to my GitHub profile!
+I'm Jan Zander, a student at Brigham Young University-Idaho interested in Software Development and Embedded Systems. Welcome to my GitHub profile!
 
 ## About Me
 
