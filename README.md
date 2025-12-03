@@ -2,12 +2,12 @@
 
 Hello, GitHub! 👋
 
-I'm Jan Zander, a student at Brigham Young University-Idaho interested in Software Development and Embedded Systems. Welcome to my GitHub profile!
+I'm Jan Zander. I have a Bachelors Degree in Software Development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I am currently in the process of getting a degree in Software Development.
-- I am from Germany, however I live in the Philippines and work as a teacher at a german school.
+- I am interested in embedded development. So anything microcontroller related.
+- I am from Germany.
 
 ## Technologies and Tools
 
